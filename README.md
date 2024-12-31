@@ -3,6 +3,8 @@
 ## BLUE
 ### Easy:
 - [Introduction to Digital Forensics](https://tryhackme.com/r/room/introdigitalforensics)
+- [Malware Introductory](https://tryhackme.com/r/room/malmalintroductory)
+- [Mal Strings](https://tryhackme.com/r/room/malstrings)
 - [Incident Response Fundamentals](https://tryhackme.com/r/room/incidentresponsefundamentals)
 - [Logs Fundamentals](https://tryhackme.com/r/room/logsfundamentals)
 - [CyberChef Basics](https://tryhackme.com/r/room/cyberchefbasics)

@@ -32,6 +32,7 @@
 ### OSINT:
 - [Searchlight OSINT](https://tryhackme.com/r/room/searchlightosint)
 - [OhSINT](https://tryhackme.com/r/room/ohsint)
+- [Where's Rudolph?](https://tryhackme.com/r/room/learncyberin25days) - Day14
 
 ## RED
 ### Easy:

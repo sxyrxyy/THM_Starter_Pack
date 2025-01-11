@@ -3,6 +3,7 @@
 ## BLUE
 ### Easy:
 - [Introduction to Digital Forensics](https://tryhackme.com/r/room/introdigitalforensics)
+- [OverTheWire](https://overthewire.org/wargames/bandit/)
 - [Malware Introductory](https://tryhackme.com/r/room/malmalintroductory)
 - [Mal Strings](https://tryhackme.com/r/room/malstrings)
 - [Incident Response Fundamentals](https://tryhackme.com/r/room/incidentresponsefundamentals)
@@ -60,5 +61,4 @@
 - [Credential Harvesting](https://tryhackme.com/r/room/credharvesting)
 
 ### AOC
-[OverTheWire](https://overthewire.org/wargames/bandit/)
 Check relevant materials as needed.
